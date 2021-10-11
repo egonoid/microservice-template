@@ -24,7 +24,7 @@
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.19",
     "uuid": "8.3.2",
-    "yup": "^0.32.8"
+    "yup": "^0.32.10"
   },
   "devDependencies": {
     "@serverless/event-mocks": "^1.1.1",
