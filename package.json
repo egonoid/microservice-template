@@ -52,7 +52,7 @@
     "ts-loader": "^8.0.14",
     "tsconfig-paths-webpack-plugin": "^3.3.0",
     "typescript": "^4.1.3",
-    "webpack": "^5.12.2"
+    "webpack": "^5.70.0"
   },
   "author": "egonoid GmbH (https://www.egonoid.com)",
   "license": "UNLICENSED"
